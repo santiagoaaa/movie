@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-Este proyecto hace uso de la API que proporciona TMDd.
+Este proyecto hace uso de la API que proporciona TMDb.
